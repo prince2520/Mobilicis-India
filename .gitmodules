@@ -1,0 +1,6 @@
+[submodule "Mobilicis-Frontend"]
+	path = Mobilicis-Frontend
+	url = https://github.com/prince2520/Mobilicis-Frontend.git
+[submodule "Mobilicis-Backend"]
+	path = Mobilicis-Backend
+	url = https://github.com/prince2520/Mobilicis-Backend.git
